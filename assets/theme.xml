@@ -20,16 +20,16 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <meta_data creator="JayRod" />
+    <meta_data creator="Tattooboy" />
     <change_interval minutes="1440" />
-    <list_header image="theme_teal" name="Teal"/>
-    <list_header image="theme_slutty_pink" name="Slutty Pink"/>
-    <list_header image="theme_sky_blue" name="Sky Blue"/>
-    <list_header image="theme_pixel_blue" name="Pixel Blue"/>
-    <list_header image="theme_mexican_sunset" name="Mexican Sunset"/>
-    <list_header image="theme_infected_red" name="Infected Red"/>
-    <list_header image="theme_golden_yellow" name="Golden Yellow"/>
-    <list_header image="theme_deep_purple" name="Deep Purple" />
-    <list_header image="theme_omni_green" name="Omni Green" />
-    <list_header image="theme_money_green" name="Money Green" />
+    <list_header image="rootbox_1" name="RB Red"/>
+    <list_header image="rootbox_2" name="RB Green"/>
+    <list_header image="rootbox_3" name="RB Blue"/>
+    <list_header image="rootbox_4" name="RB Purple"/>
+    <list_header image="rootbox_5" name="RB Magenta"/>
+    <list_header image="rootbox_6" name="RB Orange"/>
+    <list_header image="rootbox_7" name="RB Logo"/>
+    <list_header image="rootbox_8" name="RB OREO" />
+    <list_header image="rootbox_9" name="RB Logo OREO" />
+    <list_header image="rootbox_10" name="OREO" />
 </daylight_headers>
